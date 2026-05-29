@@ -1,0 +1,32 @@
+{
+  "id": "7a3cf87e-56c7-4e99-9710-eda030eb48a8",
+  "name": "Bygma",
+  "publisher": "ERPGruppen A/S",
+  "version": "28.0.0.17",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 55100,
+      "to": 55149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

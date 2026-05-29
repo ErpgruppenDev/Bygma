@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+            {
+            "name": "Bygma_Gruppen_Sandbox_02072025",
+            "type": "al",
+            "request": "launch",
+            "environmentType": "Sandbox",
+            "environmentName": "Bygma_Gruppen_Sandbox_02072025",
+            "tenant": "926c8f57-3fca-440f-85ae-0cfd11e48ed8",
+            "startupObjectId": 22,
+            "breakOnError": "All",
+            "breakOnRecordWrite": "None",
+            "launchBrowser": true,
+            "enableSqlInformationDebugger": true,
+            "enableLongRunningSqlStatements": true,
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10,
+            "useMcpServerForDebugging": true
+        }
+    ]
+}
