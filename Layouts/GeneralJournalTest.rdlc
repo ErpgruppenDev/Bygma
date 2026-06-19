@@ -2158,7 +2158,7 @@
                                               <Paragraph>
                                                 <TextRuns>
                                                   <TextRun>
-                                                    <Value>=First(Fields!Applies_to_Doc__No_Caption.Value)</Value>
+                                                    <Value>=First(Fields!External_Document_No_Caption.Value)</Value>
                                                     <Style>
                                                       <FontFamily>Segoe UI Semibold</FontFamily>
                                                       <FontSize>7pt</FontSize>
@@ -2692,7 +2692,7 @@
                                               <Paragraph>
                                                 <TextRuns>
                                                   <TextRun>
-                                                    <Value>=Fields!Applies_to_Doc__No_.Value</Value>
+                                                    <Value>=Fields!External_Document_No_.Value</Value>
                                                     <Style>
                                                       <FontFamily>Segoe UI</FontFamily>
                                                       <FontSize>7pt</FontSize>
@@ -5075,6 +5075,12 @@ End Function</Code>
         </Field>
         <Field Name="Applies_to_Doc__No_Caption">
           <DataField>Applies_to_Doc__No_Caption</DataField>
+        </Field>
+        <Field Name="External_Document_No_">
+          <DataField>External_Document_No_</DataField>
+        </Field>
+        <Field Name="External_Document_No_Caption">
+          <DataField>External_Document_No_Caption</DataField>
         </Field>
         <Field Name="RecipientBankAccount">
           <DataField>RecipientBankAccount</DataField>

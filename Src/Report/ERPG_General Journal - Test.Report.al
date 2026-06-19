@@ -165,6 +165,8 @@ report 55100 "ERPG_General Journal - Test"
                     }
                     column(Applies_to_Doc__No_; "Applies-to Doc. No.") { }
                     column(Applies_to_Doc__No_Caption; fieldcaption("Applies-to Doc. No.")) { }
+                    column(External_Document_No_; "External Document No.") { }
+                    column(External_Document_No_Caption; fieldcaption("External Document No.")) { }
                     column(RecipientBankAccount; "Recipient Bank Account") { }
                     column(RecipientBankAccount_Caption; FieldCaption("Recipient Bank Account")) { }
                     column(Currency_Code; "Currency Code") { }
@@ -313,6 +315,7 @@ report 55100 "ERPG_General Journal - Test"
                     var
                         PaymentTerms: Record "Payment Terms";
                         UserSetupManagement: Codeunit "User Setup Management";
+                        VendorInvoice: Record "Purch. Inv. Header";
                     begin
                         OnBeforeGenJournalLineOnAfterGetRecord("Gen. Journal Line", GenJournalBatch, GenJnlTemplate);
 
@@ -404,12 +407,16 @@ report 55100 "ERPG_General Journal - Test"
                                                         "Document Type"::"Credit Memo":
                                                             WarningIfNegativeAmt("Gen. Journal Line");
                                                         "Document Type"::Payment:
+                                                        begin
                                                             if ("Applies-to Doc. Type" = "Applies-to Doc. Type"::"Credit Memo") and
                                                                ("Applies-to Doc. No." <> '')
                                                             then
                                                                 WarningIfPositiveAmt("Gen. Journal Line")
                                                             else
                                                                 WarningIfNegativeAmt("Gen. Journal Line");
+                                                                if VendorInvoice.Get("Applies-to Doc. No.") then
+                                                                "External Document No." := VendorInvoice."Vendor Invoice No.";
+                                                        end;
                                                         "Document Type"::Refund:
                                                             WarningIfPositiveAmt("Gen. Journal Line");
                                                         else
