@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="Bygma.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 1943377773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Journal - Test</source>
+          <target state="needs-review-translation">Kontrol</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 477347064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-review-translation">Navn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType AccNameCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2323107813" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Type</source>
+          <target state="needs-review-translation">Kontotype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType AccountTypeCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 4194608748" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total (LCY)</source>
+          <target state="needs-review-translation">Total (RV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType AmountLCYCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2437543171" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance after Posting</source>
+          <target state="needs-review-translation">Saldo før bogføring</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType BalafterPostingCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1743653995" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allocation Dimensions</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType DimensionAllocationsCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1841661171" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target state="needs-review-translation">Dimensioner</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType DimensionsCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 330651215" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target state="needs-review-translation">Bilagstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType DocumentTypeCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1066462791" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Bus. Posting Group</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType GenBusPostingGroupCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 4860750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Journal - Test</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType GeneralJnlTestCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1269771658" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Posting Type</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType GenPostingTypeCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2697018364" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Prod. Posting Group</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType GenProdPostingGroupCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3419294555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch</source>
+          <target state="needs-review-translation">Kladdenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType JnlBatchNameCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3014879639" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-review-translation">Navn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType NameCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2927293368" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Change in Jnl.</source>
+          <target state="needs-review-translation">Nettobevægelse i kladde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType NetChangeinJnlCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 4085362997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-review-translation">Nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType NoCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2877743420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="needs-review-translation">Side</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType PageNoCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1664365946" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="needs-review-translation">Bogføringsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType PostingDateCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3627778687" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reconciliation</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType ReconciliationCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cannot be filtered when you post recurring journals.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 or %2 must be specified.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be specified.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 + %2 must be %3.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be " " when %2 is %3.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1, %2, %3 or %4 must not be completed when %5 is %6.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be negative.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be positive.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must have the same sign as %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cannot be specified.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be Yes.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 + %2 must be -%3.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must have a different sign than %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must only be a closing date for G/L entries.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The lines are not listed according to Posting Date because they were not entered in that order.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is a gap in the number series.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 or %2 must be G/L Account or Bank Account.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be 0.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cannot be specified when using recurring journals.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be %2 when %3 = %4.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allocations can only be used with recurring journals.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify %1 in the %2 allocation lines.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 posted on %3, must be separated by an empty line.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2">%1 - document type, %2 - document number, %3 - posting date</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 is out of balance by %3.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text025</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3216065459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The reversing entries for %1 %2 are out of balance by %3.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text026</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3853762076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>As of %1, the lines are out of balance by %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text027</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2747277865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>As of %1, the reversing entries are out of balance by %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text028</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3384974482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The total of the lines is out of balance by %1.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text029</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1148659762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The total of the reversing entries is out of balance by %1.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text030</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 510963145" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 does not exist.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text031</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 4168233824" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be %2 for %3 %4.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text032</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2424052996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 %3 does not exist.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text036</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1786356379" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text037</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 342054122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The currency %1 cannot be found. Check the currency table.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text038</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3999324801" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales %1 %2 already exists.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text039</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1404403683" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase %1 %2 already exists.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text040</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2042100300" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be entered.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text041</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2679796917" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be filled when %2 is different in %3 and %4.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text042</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3317493534" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 must not have %3 = %4.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text043</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3148584511" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be specified in fixed asset journal lines.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text044</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3786281128" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be specified in fixed asset journal lines.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text045</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 129010449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be different than %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text046</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 766707066" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 and %2 must not both be %3.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text047</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2848705940" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be specified when %2 = %3.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text049</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 612391220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must not be specified together with %1 = %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text050</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 4269661899" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be identical to %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text051</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1887784454" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cannot be a closing date.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text052</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1250087837" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is not within your range of allowed posting dates.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text053</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2356572048" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insurance integration is not activated for %1 %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text054</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1718875431" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must not be specified when %1 is specified.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text055</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3631965282" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When G/L integration is not activated, %1 must not be posted in the general journal.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text056</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2994268665" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When G/L integration is not activated, %1 must not be specified in the general journal.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text057</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 4100752876" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be specified.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text058</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3463056259" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The combination of Customer and Gen. Posting Type Purchase is not allowed.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text059</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 888923493" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The combination of Vendor and Gen. Posting Type Sales is not allowed.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text060</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1526620110" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Balance and Reversing Balance recurring methods can be used only with Allocations.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text061</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3908497555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be 0.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text062</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2633104321" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 is already used in line %3 (%4 %5).</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text064</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3270800938" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be blocked with type %2 when %3 is %4.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text065</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1357711087" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot enter G/L Account or Bank Account in both %1 and %2.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text066</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1995407704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 is linked to %3 %4.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text067</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2333225750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be specified when %2 is %3.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text069</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 76122678" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be specified when the document is not an intercompany transaction.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text070</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3733393357" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 does not exist.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text071</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 3095696740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be %2 for %3 %4.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text072</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 2458000123" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 already exists.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType Text073</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - NamedType 1694455452" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning!</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - NamedType WarningCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - Control 3158431365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want dimensions information for the journal lines to be included in the report.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - Control ShowDim - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1943377773 - Control 3158431365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Dimensions</source>
+          <target state="needs-review-translation">Vis dimensioner</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ERPG_General Journal - Test - Control ShowDim - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order</source>
+          <target state="needs-review-translation">Indkøbs Ordrenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2189117947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Invoice Discount</source>
+          <target state="needs-review-translation">Tillad fakturarabat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType AllowInvoiceDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="needs-review-translation">Beløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2609547522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact E-Mail</source>
+          <target state="needs-review-translation">Køb-fra Kontakt e-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType BuyFromContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2182502985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Mobile Phone No.</source>
+          <target state="needs-review-translation">Køb-fra Kontakt Mobilnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType BuyFromContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2508934449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Phone No.</source>
+          <target state="needs-review-translation">Køb-fra Kontakt telefonr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType BuyFromContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2438826717" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target state="needs-review-translation">Kontonr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType CompanyInfoBankAccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1275674192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <target state="needs-review-translation">Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType CompanyInfoBankNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1454106313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <target state="needs-review-translation">Giro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType CompanyInfoGiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2826867220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target state="needs-review-translation">Telefon</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType CompanyInfoPhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 322581705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <target state="needs-review-translation">SE/CVR nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType CompanyInfoVATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3801332884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <target state="needs-review-translation">Købspris</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType DirectUniCostCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target state="needs-review-translation">Bilagsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3897674943" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="needs-review-translation">E-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType EmailIDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1216568958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target state="needs-review-translation">Hoved, dimension</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType HdrDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2862688884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target state="needs-review-translation">Hjemmeside</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType HomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target state="needs-review-translation">Linje dimension</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2219219549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order No.</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType OrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="needs-review-translation">Side</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2893846144" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Details</source>
+          <target state="needs-review-translation">Betalingsoplysninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PaymentDetailsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3169568710" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target state="needs-review-translation">Betalingsoplysninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PaymentTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2079014799" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact E-Mail</source>
+          <target state="needs-review-translation">Betal-fra Kontakt e-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PayToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3401923736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Mobile Phone No.</source>
+          <target state="needs-review-translation">Betal-fra Kontakt mobilnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PayToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1854022560" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Phone No.</source>
+          <target state="needs-review-translation">Betal-fra Kontakt telefonnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PayToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3013644840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Specification</source>
+          <target state="needs-review-translation">Forudbetalings specifikation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PrepaymentSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2780112871" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-review-translation">Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PrepmtInvBuDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1225323363" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account No.</source>
+          <target state="needs-review-translation">Finanskontonr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PrepmtInvBufGLAccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2677110465" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepmt. Payment Terms</source>
+          <target state="needs-review-translation">Forudbet. betalingsbetingelser</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PrepymtTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 182229247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment VAT Amount Specification</source>
+          <target state="needs-review-translation">Forudbet. momsbeløb specifikation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PrepymtVATAmtSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 634581238" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target state="needs-review-translation">Fakturarabatbeløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PurchLineInvDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3411081103" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target state="needs-review-translation">Rabat %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType PurchLineLineDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 203962742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target state="needs-review-translation">Leveringsform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType ShipmentMethodDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 232471621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target state="needs-review-translation">Leveringsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType ShiptoAddressCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target state="needs-review-translation">Subtotal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order %1</source>
+          <target state="needs-review-translation">Indkøbsordre %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <target state="needs-review-translation">Momsbeløb specifikation i</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target state="needs-review-translation">Lokal valtuakode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target state="needs-review-translation">Kurs: %1/%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target state="needs-review-translation">Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2096959425" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target state="needs-review-translation">Momsgrundlag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VALVATBaseLCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1223243188" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target state="needs-review-translation">Fakturarabat grundlag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VATAmtLineInvDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 3691499681" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target state="needs-review-translation">Linje beløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VATAmtLineLineAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 977652710" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target state="needs-review-translation">Momsbeløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VATAmtLineVATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1210262078" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target state="needs-review-translation">Moms %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VATAmtLineVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 1396908878" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target state="needs-review-translation">Momsbeløb specifikation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VATAmtSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 232398666" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target state="needs-review-translation">Betalingsrabat på moms</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VATDiscountAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target state="needs-review-translation">Moms ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - NamedType 132160432" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <target state="needs-review-translation">Leverandørnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - NamedType VendNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - ReportDataItem 2072992664 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <target state="needs-review-translation">Købsordre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - ReportDataItem Purchase Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="needs-review-translation">Indstillinger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 3255118903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to archive the order.</source>
+          <target state="needs-review-translation">Specifiser om ordre skal arkiveres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control ArchiveDocument - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target state="needs-review-translation">Arkivdokument</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the program to log this interaction.</source>
+          <target state="needs-review-translation">Angiver om der skal dannes log </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target state="needs-review-translation">Log interaktion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 3192306909 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <target state="needs-review-translation">Angiver antal af kopier</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control NoofCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 3192306909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target state="needs-review-translation">Antal kopiere</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control NoofCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 3662524380 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <target state="needs-review-translation">Angiver, om den udskrevne rapport skal vise oplysninger, der kun er til intern brug.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control ShowInternalInformation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1640572759 - Control 3662524380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target state="needs-review-translation">Vis intern information</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseOrder - Control ShowInternalInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3642868864 - ReportLayout 2375404314 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2400634003">
+          <source>The Bygma Sales Credit Memo (RDLC).</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension ERPG_SalesCrMemo - ReportLayout BygmaSalesCrMemo_Layout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3642868864 - ReportLayout 2375404314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2400634003">
+          <source>Bygma Sales Credit Memo (RDLC)</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension ERPG_SalesCrMemo - ReportLayout BygmaSalesCrMemo_Layout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2874843915 - ReportLayout 3229390720 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>The Bygma Sales Invoice (RDLC).</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension ERPG_SalesInvoice_Bygma - ReportLayout BygmaSalesInvoice_Layout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2874843915 - ReportLayout 3229390720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>Bygma Sales Invoice (RDLC)</source>
+          <target state="needs-translation"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension ERPG_SalesInvoice_Bygma - ReportLayout BygmaSalesInvoice_Layout - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -2,7 +2,7 @@
   "id": "7a3cf87e-56c7-4e99-9710-eda030eb48a8",
   "name": "Bygma",
   "publisher": "ERPGruppen A/S",
-  "version": "28.0.1.0",
+  "version": "28.0.2.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -27,6 +27,6 @@
   },
   "runtime": "17.0",
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith","TranslationFile"
   ]
 }

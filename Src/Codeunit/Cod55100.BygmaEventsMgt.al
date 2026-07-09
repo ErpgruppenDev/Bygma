@@ -3,7 +3,7 @@ codeunit 55100 Bygma_EventsMgt
     [EventSubscriber(ObjectType::Report, Report::"Standard Sales - Invoice", OnAfterFillRightHeader, '', false, false)]
     local procedure "Standard Sales - Invoice_OnAfterFillRightHeader"(var RightHeader: Record "Name/Value Buffer"; SalesInvoiceHeader: Record "Sales Invoice Header")
     begin
-        
+
     end;
 
 
@@ -25,6 +25,18 @@ codeunit 55100 Bygma_EventsMgt
     //     FillNameValueTable(LeftHeader, PaymentMethodDescLbl, PaymentMethod.Description);
     //     //FillNameValueTable(LeftHeader, Cust.GetLegalEntityTypeLbl(), Cust.GetLegalEntityType());
     //     FillNameValueTable(LeftHeader, ShptMethodDescLbl, ShipmentMethod.Description);
+    // end;
+
+    // [EventSubscriber(ObjectType::Report, Report::Order, OnAfterInitReport, '', false, false)]
+    // local procedure Order_OnAfterInitReport(var Sender: Report Order)
+    // var        
+    //     SalesSetup: Record "Sales & Receivables Setup";     
+    //     CompanyLogoPosition: Integer;
+    //     OrderRpt: Report Order;
+    // begin    
+    //     SalesSetup.Get();
+    //     CompanyLogoPosition := SalesSetup."Logo Position on Documents";  
+    //     OrderRpt.SetPosition(CompanyLogoPosition);
     // end;
 
 
